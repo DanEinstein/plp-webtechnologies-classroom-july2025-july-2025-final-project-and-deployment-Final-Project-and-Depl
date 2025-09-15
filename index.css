@@ -1,0 +1,12 @@
+/* Homepage specific styles */
+
+/* Unique hero background for the home page */
+#Home {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/emergency.jpg');
+    height: 90vh; /* Adjusted height for better viewing */
+}
+
+/* Dark Mode Styles */
+.dark-mode .content-section {
+    background-color: var(--dark-bg);
+}
