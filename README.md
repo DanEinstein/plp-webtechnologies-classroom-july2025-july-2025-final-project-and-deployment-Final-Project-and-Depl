@@ -11,7 +11,7 @@ This repository contains the source code for the HCW (Healthcare Website) projec
   - `about.html`: Details the mission, vision, and team behind the project.
   - `goals.html`: Outlines the specific objectives of the organization.
   - `targets.html`: Identifies the key audiences the website aims to serve.
-  - `Contacts.html`: A contact page with a submission form to get in touch.
+  - `contacts.html`: A contact page with a submission form to get in touch.
 
 - **Dynamic Features (JavaScript)**:
   - **Light/Dark Mode Toggle**: Users can switch between a light and dark theme. The preference is saved in `localStorage` for a consistent experience across sessions.
@@ -35,23 +35,22 @@ This repository contains the source code for the HCW (Healthcare Website) projec
 ## Project Structure
 
 ```
-/HCW/
-├── assets/
-│   ├── index.html
-│   ├── about.html
-│   ├── goals.html
-│   ├── targets.html
-│   ├── Contacts.html
-│   ├── Global.css
-│   ├── index.css
-│   ├── about.css
-│   ├── goals.css
-│   ├── targets.css
-│   ├── contacts.css
-│   └── script.js
-├── images/
-│   ├── ... (all image files)
-└── README.md
+#This is the files used in the website  
+   ├──index.html
+   ├── about.html
+   ├── goals.html
+   ├── targets.html
+   ├── Contacts.html  
+   ├── Global.css
+   ├── index.css
+   ├── about.css
+   ├── goals.css
+   ├── targets.css 
+   ├── contacts.css
+   └── script.js
+   ├── images/├── ... (all image files)
+   └──Readme.md
+
 ```
 
 ## How to Run the Project

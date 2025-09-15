@@ -2,7 +2,7 @@
 
 /* Unique hero background for the about page */
 #about-hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/patient.jpg'); 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/patient.jpg'); 
 }
 
 .about-content {

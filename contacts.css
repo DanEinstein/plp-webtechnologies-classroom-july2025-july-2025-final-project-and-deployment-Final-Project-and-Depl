@@ -2,7 +2,7 @@
 
 /* Unique hero background for the contacts page */
 #contacts-hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/contact.jpg'); /*The background image for the contacts page */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/contact.jpg'); /*The background image for the contacts page */
 }
 
 .contact-card {
